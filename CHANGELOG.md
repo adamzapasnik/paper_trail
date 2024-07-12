@@ -17,6 +17,10 @@ recommendations of [keepachangelog.com](http://keepachangelog.com/).
 
 - None
 
+### Dependencies
+
+- Add support for Ruby 3.3
+
 ## 15.1.0 (2023-10-22)
 
 ### Breaking Changes
